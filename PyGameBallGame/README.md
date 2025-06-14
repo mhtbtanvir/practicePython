@@ -1,3 +1,5 @@
+install the executable file or run it in python environment to try the game.
+
 # Ball Splitting Game 🎯
 
 An interactive pygame-based ball splitting game where you click to split balls and manage the chaos within a circular boundary!
