@@ -14,7 +14,7 @@ with open("./input/Letters/starting_letter.txt") as file:
 
 
 for name in names:
-    name = name.strip()
+    name = name.strip() # to remove the \n"name"remove spaces from the name
 
     pers_letter = letter.replace("[name]", name)
 
